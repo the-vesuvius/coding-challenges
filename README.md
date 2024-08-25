@@ -1,1 +1,1 @@
-Doing some challenges from https://codingchallenges.fyi/
+Doing some challenges from https://codingchallenges.fyi/ but not actually finishing any of them :) (all of them either not finished or buggy)
